@@ -1,0 +1,67 @@
+.lists_desktop {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.lists_desktop li a {
+    text-decoration: none;
+    color: white;
+}
+
+/* For Movile Menu */
+.lists_mobile {
+    margin-top: 20px;
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.lists_mobile li {
+    /* border: 2px solid green; */
+    width: 100%;
+    text-align: center;
+}
+
+.lists_mobile li a {
+
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+    /* border: 2px solid red; */
+
+}
+
+.lists_mobile li a:hover {
+    background-color: black;
+    color: white;
+}
+
+.close_drawer_btn {
+    background-color: transparent;
+    border: 4px solid transparent;
+    padding: 2px;
+    border-radius: 50%;
+}
+
+.close_drawer_btn svg {
+    padding: 2px;
+    color: black;
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+
+/* Active Navlink Goes here */
+.active {
+    color: #DAA520 !important;
+    font-weight: bolder;
+}

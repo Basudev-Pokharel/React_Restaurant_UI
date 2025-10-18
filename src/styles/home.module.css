@@ -1,0 +1,42 @@
+.home {
+    height: calc(100vh - 10vh);
+    /* background: url('../Images//banner.jpeg'); */
+    background: url('../Images/finnnish_food/salmon_my_fav.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero_text {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    width: 100%;
+    font-size: 1.8rem;
+    justify-content: left;
+    align-items: left;
+}
+
+.hero_text h2 {
+    line-height: 0.5;
+}
+
+.hero_text button {
+    width: 140px;
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    padding: 5px;
+    transition: all .5s ease-in-out;
+    cursor: pointer;
+}
+
+.hero_text button:hover {
+    background-color: rgb(6, 211, 211);
+    color: rgb(17, 17, 1);
+}
