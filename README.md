@@ -48,6 +48,11 @@ The project showcases a modern restaurant landing page with multiple sections an
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the deployed website](YOUR_DEPLOYED_LINK_HERE)
+👉 [Click here to view the deployed website](Soon)
+
+---
+## 🔗 Connect With Me on LinkedIn
+
+👉 [My LinkedIN](https://www.linkedin.com/in/basudev-pokharel/)
 
 ---
