@@ -1,7 +1,6 @@
 import React from 'react'
 import Toolbar from '@mui/material/Toolbar'
 import Typography from '@mui/material/Typography'
-import Logo from '../Images/logo.svg';
 import { Box, Stack } from '@mui/material';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
@@ -10,9 +9,6 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
 const Footer = () => {
-    function SVGclick() {
-        console.log('Hie')
-    }
     return (
         <Toolbar sx={{
             bgcolor: "black",
@@ -23,7 +19,7 @@ const Footer = () => {
             }
         }} >
             <Typography component={"div"}>
-                <img src={Logo} alt="Logo_Brand" height={"60px"} width={"250px"} />
+                <img src={'/Images/logo.svg'} alt="Logo_Brand" height={"60px"} width={"250px"} />
             </Typography>
             <Box sx={{
                 '& p': {

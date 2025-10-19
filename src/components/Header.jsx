@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import AppBar from '@mui/material/AppBar'
 import Toolbar from '@mui/material/Toolbar'
 import Typography from '@mui/material/Typography'
-import Logo from '../Images/logo.svg';
 import { NavLink } from 'react-router';
 import { Box, Divider, Drawer, IconButton } from '@mui/material';
 import styles from "../styles/header.module.css"
@@ -17,7 +16,7 @@ const Header = () => {
 
     const Drawerlist = (<Box sx={{ padding: 1 }} onClick={() => { toogleDrawer(false) }}>
         <Typography component={"div"} display={"flex"} onClick={() => { window.location.href = '/' }} sx={{ cursor: 'pointer' }}>
-            <img src={Logo} alt="Logo_Brand" height={"70px"} width={"250px"} />
+            <img src={'Images/logo.svg'} alt="Logo_Brand" height={"70px"} width={"250px"} />
         </Typography>
         <Divider></Divider>
         <Box>
@@ -55,7 +54,7 @@ const Header = () => {
                 },
             }} >
                 <Typography component={"div"} onClick={() => { window.location.href = '/' }} sx={{ cursor: 'pointer' }}>
-                    <img src={Logo} alt="Logo_Brand" height={"70px"} width={"250px"} />
+                    <img src={'Images/logo.svg'} alt="Logo_Brand" height={"70px"} width={"250px"} />
                 </Typography>
                 <IconButton bgcolor="white" onClick={() => { toogleDrawer(true) }}>
                     <MenuIcon color='white'></MenuIcon>
