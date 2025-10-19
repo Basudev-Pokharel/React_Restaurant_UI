@@ -1,9 +1,9 @@
-import Salmon from "../Images/finnnish_food/soup_salmon.jpg"
-import RoastedSalmon from "../Images/finnnish_food/Roasted_Salmon.jpg"
-import KarelianPie from "../Images/finnnish_food/Karelian_Pie.jpg"
-import SweetFinnish from "../Images/finnnish_food/sweet_finnish.jpg"
-import Fruits from "../Images/finnnish_food/Fruits.jpg"
-import MeatBalls from "../Images/finnnish_food/meatballs_finland2.jpg"
+import Salmon from "../Images/Finnish_Food/soup_salmon.jpg"
+import RoastedSalmon from "../Images/Finnish_Food/Roasted_Salmon.jpg"
+import KarelianPie from "../Images/Finnish_Food/Karelian_Pie.jpg"
+import SweetFinnish from "../Images/Finnish_Food/sweet_finnish.jpg"
+import Fruits from "../Images/Finnish_Food/Fruits.jpg"
+import MeatBalls from "../Images/Finnish_Food/meatballs_finland2.jpg"
 export const MenuList = [
   {
     name: "Salmon Soup",

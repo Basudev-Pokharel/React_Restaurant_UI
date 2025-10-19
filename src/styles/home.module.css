@@ -1,7 +1,7 @@
 .home {
     height: calc(100vh - 10vh);
     /* background: url('../Images//banner.jpeg'); */
-    background: url('../Images/finnnish_food/salmon_my_fav.jpg');
+    background: url('../Images/Finnish_Food/salmon_my_fav.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10px;
