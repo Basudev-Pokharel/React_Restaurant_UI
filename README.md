@@ -28,19 +28,19 @@ The project showcases a modern restaurant landing page with multiple sections an
 
 ### 💻 Desktop & Tablet View
 <p align="center">
-  <img src="./public/images/Home_Page.png" width="48%%" />
-  <img src="./public/images/About_Page.png" width="48%" />
-  <img src="./public/images/Contact_Page.png" width="48%" />
-  <img src="./public/images/Menu_Page.png" width="48%" />
+  <img src="./public/App_images/Home_Page.png" width="48%%" />
+  <img src="./public/App_images/About_Page.png" width="48%" />
+  <img src="./public/App_images/Contact_Page.png" width="48%" />
+  <img src="./public/App_images/Menu_Page.png" width="48%" />
 </p>
 
 ### 📱 Mobile (iPhone SE)
 <p align="center">
-  <img src="./public/images/Mobile_Home_Page.png" width="30%" />
-  <img src="./public/images/Mobule_Menu.png" width="30%" />
-  <img src="./public/images/Mobile_About_us.png" width="30%" />
-  <img src="./public/images/Mobile_Contact.png" width="30%" />
-  <img src="./public/images/Mobile_Menu.png" width="30%" />
+  <img src="./public/App_images/Mobile_Home_Page.png" width="30%" />
+  <img src="./public/App_images/Mobule_Menu.png" width="30%" />
+  <img src="./public/App_images/Mobile_About_us.png" width="30%" />
+  <img src="./public/App_images/Mobile_Contact.png" width="30%" />
+  <img src="./public/App_images/Mobile_Menu.png" width="30%" />
 </p>
 
 
