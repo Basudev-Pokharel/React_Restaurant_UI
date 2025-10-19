@@ -48,7 +48,7 @@ The project showcases a modern restaurant landing page with multiple sections an
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the deployed website](Soon)
+👉 [Click here to view the deployed website](https://react-restaurant-ui-blue.vercel.app/)
 
 ---
 ## 🔗 Connect With Me on LinkedIn
@@ -56,5 +56,3 @@ The project showcases a modern restaurant landing page with multiple sections an
 👉 [My LinkedIN](https://www.linkedin.com/in/basudev-pokharel/)
 
 ---
-
-# Now with wsl
